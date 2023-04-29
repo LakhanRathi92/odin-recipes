@@ -2,7 +2,7 @@
 Front end revision with odin project
 
 ## goals
-After couple of years with backend in Java, trying to get hands on with frontend development. 
+Learn a bit of front-end development
 
 Using odin project https://www.theodinproject.com/ and  https://scrimba.com/learn/learnreact to achieve following: 
 1. Revision of html, css, javascript 
