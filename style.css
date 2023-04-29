@@ -1,0 +1,12 @@
+.center-div {
+    text-align: center;
+    font-family: Verdana,'Lucida Grande', 'Lucida Sans', 'Lucida Sans Regular',  'Lucida Sans Unicode', Geneva, sans-serif;
+}
+
+.images {
+    text-align: center;
+}
+
+ol {
+    list-style-type: upper-roman;
+  }
